@@ -1,0 +1,6 @@
+[submodule "class-command-executor"]
+	path = class-command-executor
+	url = git@github.com:volkovasystems/class-command-executor.git
+[submodule "class-java-command-executor"]
+	path = class-java-command-executor
+	url = git@github.com:volkovasystems/class-java-command-executor.git
